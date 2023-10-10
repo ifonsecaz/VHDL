@@ -1,0 +1,149 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clock'
+Slack : -19.584
+TNS   : -58137.544
+
+Type  : Slow 1200mV 85C Model Setup 'CLK'
+Slack : -10.496
+TNS   : -237.524
+
+Type  : Slow 1200mV 85C Model Setup 'WriteIns'
+Slack : -4.448
+TNS   : -11762.685
+
+Type  : Slow 1200mV 85C Model Setup 'Protoboard:inst6|Practica2:b2v_inst7|div_freq:b2v_inst3|temporal'
+Slack : 0.170
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLK'
+Slack : 0.342
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Protoboard:inst6|Practica2:b2v_inst7|div_freq:b2v_inst3|temporal'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'WriteIns'
+Slack : 0.360
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clock'
+Slack : 0.612
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -4241.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'WriteIns'
+Slack : -3.000
+TNS   : -4107.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -77.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Protoboard:inst6|Practica2:b2v_inst7|div_freq:b2v_inst3|temporal'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Slow 1200mV 0C Model Setup 'clock'
+Slack : -17.571
+TNS   : -52044.289
+
+Type  : Slow 1200mV 0C Model Setup 'CLK'
+Slack : -9.376
+TNS   : -205.234
+
+Type  : Slow 1200mV 0C Model Setup 'WriteIns'
+Slack : -3.983
+TNS   : -10274.516
+
+Type  : Slow 1200mV 0C Model Setup 'Protoboard:inst6|Practica2:b2v_inst7|div_freq:b2v_inst3|temporal'
+Slack : 0.255
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLK'
+Slack : 0.298
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Protoboard:inst6|Practica2:b2v_inst7|div_freq:b2v_inst3|temporal'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'WriteIns'
+Slack : 0.320
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clock'
+Slack : 0.550
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -4241.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'WriteIns'
+Slack : -3.000
+TNS   : -4107.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -77.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Protoboard:inst6|Practica2:b2v_inst7|div_freq:b2v_inst3|temporal'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Fast 1200mV 0C Model Setup 'clock'
+Slack : -11.142
+TNS   : -32489.874
+
+Type  : Fast 1200mV 0C Model Setup 'CLK'
+Slack : -5.821
+TNS   : -109.401
+
+Type  : Fast 1200mV 0C Model Setup 'WriteIns'
+Slack : -2.232
+TNS   : -5116.162
+
+Type  : Fast 1200mV 0C Model Setup 'Protoboard:inst6|Practica2:b2v_inst7|div_freq:b2v_inst3|temporal'
+Slack : 0.537
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLK'
+Slack : 0.176
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Protoboard:inst6|Practica2:b2v_inst7|div_freq:b2v_inst3|temporal'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'WriteIns'
+Slack : 0.192
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clock'
+Slack : 0.329
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -5125.986
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'WriteIns'
+Slack : -3.000
+TNS   : -4551.803
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -83.956
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Protoboard:inst6|Practica2:b2v_inst7|div_freq:b2v_inst3|temporal'
+Slack : -1.000
+TNS   : -2.000
+
+------------------------------------------------------------
